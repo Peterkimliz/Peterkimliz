@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Peterkimliz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Peter 👋
 
-<!---
-Peterkimliz/Peterkimliz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 **I'm interested in ...** native iOS development with Swift/SwiftUI, and building polished, performant mobile experiences on Apple platforms
+- 🌱 **I'm currently learning ...** deeper SwiftUI patterns and modern iOS architecture — pushing beyond Flutter/cross-platform into fully native Apple ecosystem development
+- 💞️ **I'm looking to collaborate on ...** iOS apps and SwiftUI projects — from UI-heavy consumer apps to enterprise mobile tools, especially anything for the East African market (fintech, ERP, field-sales)
+- 🛠️ **Core stack:** Swift/SwiftUI (iOS) · Flutter/Dart (GetX) · Kotlin/Java (Android) · Java/Spring Boot + Kafka · PostgreSQL · Docker
+- 📫 **How to reach me ...** peterkironji8@gmail.com
+
+---
+📱 Native iOS developer at heart, also building cross-platform (Flutter) and backend (Spring Boot) systems for enterprise ERP and field-sales.
